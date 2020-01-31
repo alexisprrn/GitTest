@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/FallRight.png","C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/bin/Windows/Content/FallRight.xnb","TextureProcessor","Texture2DContent",939,14885,0
+"C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/RunRight.png","C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/bin/Windows/Content/RunRight.xnb","TextureProcessor","Texture2DContent",2274,44485,0

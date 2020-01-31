@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack01Left.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack01Right.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack02Left.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack02Right.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack03Left.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/Attack03Right.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/DieRight.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/FallLeft.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/FallRight.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/IdleLeft.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/IdleRight.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/JumpLeft.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/JumpRight.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/RunLeft.png</File>
+    <File>C:/Users/perrona/Desktop/Workspace/GameTest2/GameTest2/Content/RunRight.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
